@@ -1,6 +1,6 @@
 """
 Análisis de Estructura a Gran Escala del Universo
-Estudiantes: [NOMBRES]
+Estudiantes:Isabella Caputi, Kevin Oviedo, Juan Esteban Restrepo, Juan Pablo Garcia
 """
 
 import time
